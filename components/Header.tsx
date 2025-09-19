@@ -181,8 +181,7 @@ export default function Menu() {
             </ul>
             <ul className="flex gap-3">
               <Link
-                target="_blank"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSdWSl_deYww_RM5bLvAyHhYXcO7Mmux2NC_xHb6zzNIde0qgA/viewform"
+                href="https://app.yingo.work"
                 className="flex items-center justify-between gap-4 rounded-[12px] border border-tertiary bg-white hover:bg-secondary transition-all ease-in-out duration-300 pl-6 pr-1.5 py-1.5 font-garnett font-medium text-[14px] -tracking-[0.5px] text-black"
               >
                 Publicar vacante
@@ -204,8 +203,7 @@ export default function Menu() {
                 </span>
               </Link>
               <Link
-                target="_blank"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfRj5U3ikj61LhclYjlV7uNQOIk67HgojwwK_ND6N33ErQbqw/viewform"
+                href="https://app.yingo.work"
                 className="flex items-center justify-between gap-4 rounded-[12px] border border-fourth bg-primary hover:bg-fourth transition-all ease-in-out duration-300 pl-6 pr-1.5 py-1.5 font-garnett font-medium text-[14px] -tracking-[0.5px] text-white"
               >
                 Encontrar trabajo
