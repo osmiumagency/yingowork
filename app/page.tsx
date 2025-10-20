@@ -80,7 +80,7 @@ export default function Home() {
           <div className="flex gap-3">
             <Link
               target="_blank"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSdWSl_deYww_RM5bLvAyHhYXcO7Mmux2NC_xHb6zzNIde0qgA/viewform"
+              href="https://app.yingo.work/"
               className="flex items-center justify-between gap-4 rounded-[12px] border border-tertiary bg-white hover:bg-tertiary transition-all ease-in-out duration-300 pl-4 lg:pl-6 text-left leading-none lg:text-center pr-2 py-2 font-garnett font-medium text-[14px] lg:text-[16px] -tracking-[0.5px] text-black"
             >
               Publicar vacante
@@ -103,7 +103,7 @@ export default function Home() {
             </Link>
             <Link
               target="_blank"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSfRj5U3ikj61LhclYjlV7uNQOIk67HgojwwK_ND6N33ErQbqw/viewform"
+              href="https://app.yingo.work/"
               className="flex items-center justify-between gap-4 lg:gap-6 rounded-[12px] border border-fourth bg-primary hover:bg-fourth transition-all ease-in-out duration-300 pl-4 lg:pl-6 text-left leading-none lg:text-center pr-2 py-2 font-garnett font-medium text-[14px] lg:text-[16px] -tracking-[0.5px] text-white"
             >
               Encontrar trabajo
