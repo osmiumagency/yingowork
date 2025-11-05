@@ -12,6 +12,7 @@ import FeatureBlocks from "@/components/FeatureBlocks";
 import FinalCTA from "@/components/FinalCTA";
 import Faq from "@/components/Faq";
 import Footer from "@/components/Footer";
+import Las100ProBadge from "@/components/Las100ProBadge";
 
 export default function Home() {
   const [showSoundBtn, setShowSoundBtn] = useState(true);
@@ -59,6 +60,7 @@ export default function Home() {
               Encuentra tu próximo trabajo.
             </h1>
             <main className="mx-auto lg:px-4 max-w-6xl w-full">
+                
               <div className="relative aspect-16/9 w-full rounded-[24px] lg:rounded-[32px] overflow-hidden">
                 <iframe
                   className="w-full h-full"
@@ -68,13 +70,14 @@ export default function Home() {
                   allowFullScreen
                   referrerPolicy="strict-origin-when-cross-origin"
                 />
+           
               </div>
             </main>
+           
             <h2 className="text-[14px] md:text-xl max-w-3xl w-full mx-auto font-medium -tracking-[0.25px]">
               Yingo es un{" "}
               <span className="text-primary">AI-Powered Talent Hub</span> que
-              conecta empresas y personas con la oportunidad correcta. Sin
-              cuentas, sin fricción.
+              conecta empresas y personas con la oportunidad correcta. Sin fricciones.
             </h2>
           </div>
           <div className="flex gap-3">
@@ -126,9 +129,10 @@ export default function Home() {
             </Link>
           </div>
 
-          <p className="font-medium text-[14px] text-primary">
+          <p className="font-medium text-[14px] text-primary mb-12">
             Gratuito. Ágil. Humano.
           </p>
+          <Las100ProBadge />
         </div>
       </main>
 

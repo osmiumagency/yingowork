@@ -36,7 +36,7 @@ const features: Feature[] = [
       "Nos inspiramos en apps de conexión para crear algo mejor: una plataforma donde el talento y las oportunidades se encuentran sin fricción.",
     points: [
       "01. Comparte tu perfil de LinkedIn. Nosotros hacemos el resto.",
-      "02. Sin cuentas, sin subir tu CV mil veces.",
+      "02. Sin subir tu CV mil veces.",
       "03. Nuestra IA te sugiere conexiones alineadas.",
       {
         text: "04. Yingo es 100% gratuito para personas y empresas.",

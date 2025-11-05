@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Yingo | El nuevo Tinder del talento",
   description:
-    "Yingo es un AI-Powered Talent Hub que conecta empresas y personas con la oportunidad correcta. Sin cuentas, sin fricción.",
+    "Yingo es un AI-Powered Talent Hub que conecta empresas y personas con la oportunidad correcta. Sin fricciones.",
 };
 
 export default function RootLayout({

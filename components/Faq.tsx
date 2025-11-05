@@ -6,7 +6,7 @@ const faqs = [
   {
     question: "¿Usar Yingo tiene costo?",
     answer:
-      "Para el Talento, los que buscan trabajo, Yingo es gratis, sube tu información sin costo alguno. Para las empresas, publicar vacantes no tiene costo, tenemos paquetes a la medida para llegar a los candidatos mas rápido. ",
+      "Para el Talento, los que buscan trabajo, Yingo es gratis, sube tu información sin costo alguno. Para las empresas, tenemos planes mensuales y anuales que se adaptan a tu ritmo de contratación, con acceso a todas las funciones y soporte personalizado.",
   },
   {
     question: "¿Tengo que crear perfil o cuenta?",

@@ -4,6 +4,7 @@ import Link from "next/link";
 import Logo from "./Logo";
 import InstagramIcon from "../components/icons/InstagramIcon";
 import LinkedinIcon from "../components/icons/LinkedinIcon";
+import Las100ProBadge from "./Las100ProBadge";
 
 export default function Footer() {
   return (
@@ -35,7 +36,7 @@ export default function Footer() {
         </div>
 
         {/* Right Column */}
-        <div className="flex flex-col items-start gap-8 lg:gap-14 md:items-end md:text-right w-full md:w-auto">
+        <div className="flex flex-col items-start gap-8 lg:gap-10 md:items-end md:text-right w-full md:w-auto">
           <ul className="flex gap-3">
             <Link
               target="_blank"
@@ -110,6 +111,9 @@ export default function Footer() {
               Planes
             </Link>
           </nav>
+          <div className="flex justify-end">
+            <Las100ProBadge size="small" />
+          </div>
         </div>
       </div>
 
